@@ -1,4 +1,4 @@
-__author__ = "Danielo Pelliccia"
+__author__ = "Daniele (Daniel) Pelliccia"
 __copyright__ = "Copyright 2020, Rubens Technologies"
 
 __license__ = "MIT"
