@@ -51,7 +51,8 @@ def rgb2lab(R,G,B,C):
 
     return (L,a,b)
 
-# Input the raw data reading of our sensor
+# Input the raw data reading of the Adafruit TCS34725 RGB Color Sensor Module
+# Example
 R = 18628
 G = 31805
 B = 16424
